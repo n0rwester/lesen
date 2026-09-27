@@ -5,7 +5,10 @@ a better ls
 
 ## usage
 > [!IMPORTANT]
-> you will need some sort of a nerd font installed in order for lesen to work properly 
+> you will need some sort of a nerd font installed in order for lesen to work properly
+
+you can get a nerd font [here](https://www.nerdfonts.com/)
+
 run `lesen` in your terminal to list the contents of the current working directory
 
 ## installation
