@@ -19,7 +19,6 @@ run `lesen` in your terminal to list the contents of the current working directo
 ## todo
 - [x] current directory listing
 - [x] pretty printing
-- [x] colours n' stuff
-
-```
-```
+- [ ] colours n stuff
+- [ ] arbitrary directory listing
+- [ ] customisation
