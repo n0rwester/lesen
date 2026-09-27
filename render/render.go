@@ -38,7 +38,7 @@ func box(lines []string, name string) []string {
 	output := []string{}
 
 	maxlen := util.GetMaxLen(lines)
-	maxlen = max(len(name)-1, maxlen)
+	maxlen = max(len(name)-1, maxlen, 7)
 
 	output = append(output, " ┌─"+util.Pad(name, maxlen, "─")+"─┐")
 	for _, line := range lines {
